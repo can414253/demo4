@@ -1,0 +1,12 @@
+C:\Users\taban\source\repos\Kargo\Class1\bin\Debug\Class1.dll.config
+C:\Users\taban\source\repos\Kargo\Class1\bin\Debug\Class1.dll
+C:\Users\taban\source\repos\Kargo\Class1\bin\Debug\Class1.pdb
+C:\Users\taban\source\repos\Kargo\Class1\bin\Debug\EntityFramework.dll
+C:\Users\taban\source\repos\Kargo\Class1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\taban\source\repos\Kargo\Class1\bin\Debug\EntityFramework.xml
+C:\Users\taban\source\repos\Kargo\Class1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\taban\source\repos\Kargo\Class1\obj\Debug\VeriTabaniİslemleri.csproj.AssemblyReference.cache
+C:\Users\taban\source\repos\Kargo\Class1\obj\Debug\VeriTabaniİslemleri.csproj.CoreCompileInputs.cache
+C:\Users\taban\source\repos\Kargo\Class1\obj\Debug\VeriTabaniİslemleri.csproj.CopyComplete
+C:\Users\taban\source\repos\Kargo\Class1\obj\Debug\Class1.dll
+C:\Users\taban\source\repos\Kargo\Class1\obj\Debug\Class1.pdb
